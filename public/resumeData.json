@@ -1,9 +1,9 @@
 {
   "main": {
-    "name":"Nordic-Giant Project",
-    "description":"I am a web development engineer and I use react and vue.js to develop pages. This project is a resume template that can be used as the project home page or resume page",
-    "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "name":"Will you be my valentine❤️",
+    "description":"I want you to be my special someone this Valentines Day. You always make my days so meaningful and special and you mean the world to me. I want to take you on a magical journey that only has space for two",
+    "image":"profilepic.jpeg",
+    "bio":"",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "youremailhere@gmail.com",
     "phone": "555-555-5555",
@@ -46,63 +46,43 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"Here are a list of my skills",
     "education":[
       {
-        "school":"University?",
+        "school":"I am your boyfriend",
         "degree":"Masters in Beer tasting",
         "graduated":"April 2017",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
-      },
-      {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2013",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "description":"It would be kind of sad if you chose someone else to be your Valentine when you have me. That's kinda what I'm here for so please choose me 🥺😔"
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
+        "company":"I love you",
         "title":"Senior UX God ",
         "years":"March 2018 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
-      },
-      {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2017 - February 2018",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description":"Sure you can be with any ordinary guy for Valentines day but wouldn't you want someone who is obsessing over you and is always there for you? I am in love with you and everything about you is so gracious and perfect. You are so beautiful and the prettiest I have seen and you make my heart skip beats when you are with me :)."
       }
     ],
     "skills":[
       {
-        "name":"Python",
-        "level":"60%"
-      },
-      {
-        "name":"VueJs",
-        "level":"55%"
-      },
-      {
-        "name":"ReactJs",
-        "level":"50%"
-      },
-      {
-        "name":"CSS",
+        "name":"Physical touch",
         "level":"90%"
       },
       {
-        "name":"PHP",
-        "level":"80%"
+        "name":"Words of Affirmation",
+        "level":"75%"
       },
       {
-        "name":"Swift",
-        "level":"50%"
+        "name":"Loyalty",
+        "level":"100%"
       },
       {
-        "name":"JAVA",
-        "level":"80%"
+        "name":"Finances",
+        "level":"10%"
+      },
+      {
+        "name":"Rizz",
+        "level":"100%"
       }
     ]
   },

@@ -26,23 +26,23 @@ class Header extends Component {
           <ul id="nav" className="nav">
             <li className="current">
               <a className="smoothscroll" href="#home">
-                Home
+                Proposition
               </a>
             </li>
 
-            <li>
+            {/* <li>
               <a className="smoothscroll" href="#about">
                 About
               </a>
-            </li>
+            </li> */}
 
             <li>
               <a className="smoothscroll" href="#resume">
-                Resume
+                Why me?
               </a>
             </li>
 
-            <li>
+            {/* <li>
               <a className="smoothscroll" href="#portfolio">
                 Works
               </a>
@@ -52,7 +52,7 @@ class Header extends Component {
               <a className="smoothscroll" href="#contact">
                 Contact
               </a>
-            </li>
+            </li> */}
           </ul>
         </nav>
 
@@ -65,21 +65,12 @@ class Header extends Component {
               <h3>{description}.</h3>
             </Fade>
             <hr />
-            <Fade bottom duration={2000}>
-              <ul className="social">
-                <a href={project} className="button btn project-btn">
-                  <i className="fa fa-book"></i>Project
-                </a>
-                <a href={github} className="button btn github-btn">
-                  <i className="fa fa-github"></i>Github
-                </a>
-              </ul>
-            </Fade>
+            <Fade bottom duration={2000} />
           </div>
         </div>
 
         <p className="scrolldown">
-          <a className="smoothscroll" href="#about">
+          <a className="smoothscroll" href="#resume">
             <i className="icon-down-circle"></i>
           </a>
         </p>
